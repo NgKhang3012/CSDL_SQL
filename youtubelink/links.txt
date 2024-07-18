@@ -1,0 +1,17 @@
++ Links :   https://www.youtube.com/watch?v=adNuHEjNhHo
+
++ P/S :
+- Em đã hỏi và được sự đồng ý của thầy nên em xin được chú thích tên file trong video :
+		
+   tên file python câu 2 : "generate-db.py"  là   "sinhdulieu.py"
+   tên file python câu 4 : "query-db.py"     là	  "create_data.py" 	
+   tên file python câu 5 : "query-xml.py"    là   "cau5.py"
+	
+- Thầy có thể chỉnh tốc độ video về 0.75x để nghe được rõ hơn ạ. Em chúc thầy nhiều sức khỏe !
+
+- Nguồn tham khảo : 
++ https://viblo.asia/p/hieu-ve-clustered-index-bJzKmw9Bl9N
++ GPT
++ https://www.w3schools.com/
++ https://www.geeksforgeeks.org/
++ video youtube 
